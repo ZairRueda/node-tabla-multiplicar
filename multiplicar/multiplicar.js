@@ -10,7 +10,7 @@ let listarTabla = (base, limite = 10) => {
     console.log('=================='.green);
 
     for (let i = 1; i <= limite; i++) {
-        console.log(`${ base } * ${ i } = ${ base * i }`)
+        console.log(`${ base } ${ 'X'.green } ${ i } ${ '='.green } ${ base * i }`)
     }
 
 
