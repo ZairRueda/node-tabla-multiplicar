@@ -1,0 +1,3 @@
+Cuando uno va a comenzar con un proyecto
+
+npm init 
