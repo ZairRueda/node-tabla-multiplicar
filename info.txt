@@ -1,3 +1,9 @@
 Cuando uno va a comenzar con un proyecto
 
 npm init 
+
+Para listar
+node app listar -b 3 -l 5
+
+Para crear 
+node app crear -b 3 -l 5
